@@ -25,3 +25,5 @@ Grupo para entrenar la mente ejercicios y guias:
 https://groups.google.com/g/brain-training?pli=1
 
 
+Primer commit desde ubuntu
+
